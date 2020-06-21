@@ -1,6 +1,7 @@
 # Ideapad Linux Tools
 
 > User Interface for ideapad-laptop kernel module.
+> This tools can enable or disable battery threshold, fn-lock and camera power.
 
 
 ## Requirements
