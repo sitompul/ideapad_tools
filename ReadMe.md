@@ -8,7 +8,7 @@
 * GTK 3.0
 * Python3
 * gobject-introspection
-
+* Kernel that has ideapad-laptop module 4.20 or newer
 
 ## How to use
 * Execute **___main.py** (requires sudo)
